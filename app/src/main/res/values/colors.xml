@@ -4,4 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#FF0000</color>
     <color name="text_view_color">#26BF35</color>
+    <color name="text_view_color2">#26BF35</color>
+    <color name="text_view_color3">#26BF35</color>
+    <color name="text_view_color4">#26BF35</color>
+    <color name="text_view_color5">#26BF35</color>
 </resources>
